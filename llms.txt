@@ -1,0 +1,80 @@
+# Load testing designed for DevOps and CI/CD | Gatling
+
+Gatling is a load testing tool for web applications designed for DevOps and Continuous Integration. Try Gatling now!
+
+## **Products and Features**
+
+- [Products](https://gatling.io/products): Overview of Gatling's offerings and solutions for load testing.
+- [Gatling Products](https://gatling.io/products): Detailed information about the various products available under the Gatling brand.
+- [OSS vs Enterprise](https://gatling.io/products/oss-vs-enterprise): Comparison between the open-source and enterprise versions of Gatling, highlighting features and benefits.
+- [Features](https://gatling.io/features): A comprehensive list of features provided by Gatling for effective load testing.
+
+## **Testing Capabilities**
+
+- [Load Testing](https://gatling.io/blog/tag/load-testing): Insights into load testing methodologies and how Gatling facilitates this process.
+- [Test-as-code concepts](https://docs.gatling.io/concepts): Explanation of the test-as-code approach and its implementation in Gatling.
+- [Gatling injection scripting reference](https://docs.gatling.io/concepts/injection): Reference guide for scripting injections in Gatling tests.
+
+## **Integrations and Automation**
+
+- [Integrations](https://gatling.io/integrations): Information on how Gatling integrates with other tools and platforms.
+- [Automation API](https://gatling.io/features/public-api): Details on the API provided for automating Gatling tests.
+- [Infrastructure-as-code](https://gatling.io/features/infrastructure-as-code): Overview of how Gatling supports infrastructure-as-code practices.
+
+## **Testing Tools and Resources**
+
+- [No-code test builder](https://gatling.io/product/test-creation): A tool for creating tests without coding, aimed at simplifying the testing process.
+- [Recorder](https://gatling.io/product/test-creation): Introduction to the Gatling Recorder, which helps in capturing user interactions for test creation.
+- [JavaScript](https://gatling.io/javascript),
+- [TypeScript](https://gatling.io/typescript),
+- [Java](https://gatling.io/java),
+- [Kotlin](https://docs.gatling.io/reference/script/core/simulation): Supported programming languages for writing Gatling tests.
+- [Postman](https://docs.gatling.io/reference/script/protocols/postman): Integration with Postman for importing API tests into Gatling.
+- [gRPC](https://docs.gatling.io/reference/script/protocols/grpc/setup),
+- [MQTT](https://docs.gatling.io/reference/script/protocols/mqtt/setup): Support for testing gRPC and MQTT protocols.
+
+## **Performance and Analysis**
+
+- [Track performance progress](https://gatling.io/product/insight-analytics): Tools and methods for tracking the performance of applications during load testing.
+- [In-depth run analysis](https://gatling.io/product/insight-analytics): Techniques for analyzing test runs to derive actionable insights.
+- [Instant run insights](https://gatling.io/product/insight-analytics): Features that provide immediate feedback on test runs.
+
+## **Security and Compliance**
+
+- [Security](https://gatling.io/security): Overview of security features and practices in Gatling.
+- [Secrets Manager](https://docs.gatling.io/guides/aws-secrets-manager): A feature for managing sensitive information securely during testing.
+
+## **Community and Support**
+
+- [Gatling Community](https://community.gatling.io): Information about the community surrounding Gatling, including forums and support channels.
+- [Help Center - Gatling Enterprise](https://gatlingcorp.atlassian.net/servicedesk/customer/portal/8): Support resources specifically for Gatling Enterprise users.
+
+## **Company Information**
+
+- [Our Company](https://gatling.io/company): Background information about Gatling as a company.
+- [Join Us](https://www.welcometothejungle.com/fr/companies/gatling-corp): Opportunities for joining the Gatling team.
+- [Contact Us](https://gatling.io/contact): Contact information for inquiries and support.
+- [Press](https://gatling.io/press): Media resources and press releases related to Gatling.
+
+## **Additional Resources**
+
+- [Documentation](https://docs.gatling.io): Comprehensive documentation for all Gatling products and features.
+- [How-to guides](https://docs.gatling.io/guides): Step-by-step guides for using Gatling effectively.
+- [Blog](https://gatling.io/blog): Latest articles and updates from the Gatling team.
+- [FAQ](https://gatling.io/faq): Frequently asked questions about Gatling and its functionalities.
+- [Pricing](https://gatling.io/pricing): Information on the pricing structure for Gatling products.
+
+## **Customer Stories and Testimonials**
+
+- [Testimonials](https://gatling.io/testimonials): Feedback and reviews from Gatling users.
+- [Customer Stories](https://gatling.io/customer-story): Case studies showcasing how different organizations use Gatling for load testing.
+
+## **Roadmap and Future Developments**
+
+- [Roadmap](https://gatling.io/roadmap): Insights into the future direction and planned features for Gatling.
+
+## **Additional Links**
+
+- [Download](https://gatling.io/products/download): Access to download Gatling software.
+- [Interactive Demo](https://gatling.io/interactive-demo): A demo version of Gatling for users to explore its features.
+- [Videos & Webinars](https://gatling.io/resource-center): Educational videos and webinars for learning more about Gatling.
